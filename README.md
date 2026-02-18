@@ -124,7 +124,11 @@ AHT Global = DIVIDE([Tiempo Total Operacion], [Total Llamadas], 0)
 
 ```
 
-*(Insertar captura de pantalla de tu Dashboard de Power BI)*
+![Vista del Dashboard Dispersión](./img/bi_scatterplot_output.png)
+
+![Vista del Dashboard Intradía](./img/bi_aht_intradia.png)
+
+![Vista del Dashboard Tendencia](./img/bi_aht_tendencia.png)
 
 ---
 
