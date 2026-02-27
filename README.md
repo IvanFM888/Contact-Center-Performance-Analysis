@@ -1,5 +1,7 @@
 ___
 # 📞 Contact Center Operations Optimization: AHT & Efficiency Analysis
+![Logo](./img/LogoCCPatitoWL.png)
+
 ___
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
